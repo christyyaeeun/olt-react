@@ -1,6 +1,0 @@
-{
-  "AppSyncApiName": "oltreact",
-  "DynamoDBBillingMode": "PAY_PER_REQUEST",
-  "DynamoDBEnableServerSideEncryption": false,
-  "AuthModeLastUpdated": "2022-03-11T17:31:43.532Z"
-}
